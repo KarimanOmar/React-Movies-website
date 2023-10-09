@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 ![Web capture_9-10-2023_233721_localhost](https://github.com/KarimanOmar/React-Movies-website/assets/144020480/60c70a51-99ef-4cf2-ac8a-21f17fb12fe0)
 
 ![Web capture_9-10-2023_233526_localhost](https://github.com/KarimanOmar/React-Movies-website/assets/144020480/19ad3762-59c0-4cf9-8c5b-162cddb8fc3d)
+![Web capture_9-10-2023_233953_localhost](https://github.com/KarimanOmar/React-Movies-website/assets/144020480/078d474e-00c4-4d50-ad01-4f17348c63f1)
